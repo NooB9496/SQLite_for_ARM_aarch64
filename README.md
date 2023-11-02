@@ -10,8 +10,10 @@ https://www.sqlite.org/changes.html
 
 ## Credits
 
-Thanks to @stockrt for the convenient SQLite [build scripts for Android](https://github.com/stockrt/sqlite3-android).
-Thanks to @DiamondJohn from xda for compiling this. [Thread on XDA forum](https://forum.xda-developers.com/t/new-sqlite3-binary-v3-43-2-for-all-devices.4273049/)
+Thanks to @stockrt for the convenient SQLite. [build scripts for Android](https://github.com/stockrt/sqlite3-android)
+
+Thanks to @DiamondJohn from xda for compiling this. [Thread on XDA forum](https://forum.xda-developers.com/t/new-sqlite3-binary-v3-44-0-for-all-devices.4273049/)
+
 Thanks to @ianmacd for template this module. [Github link](https://github.com/ianmacd/SQLite3)
 
 ## Links

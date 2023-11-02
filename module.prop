@@ -1,6 +1,6 @@
 id=sqlite3stable
 name=SQLite for ARM aarch64 devices
-version=v3.43.2
-versionCode=1
+version=v3.44.0
+versionCode=02.11.2023
 author=Noob9496
-description=SQLite for ARM aarch64 devices ver 3.43.2
+description=SQLite for ARM aarch64 devices ver 3.44.0
